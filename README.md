@@ -42,17 +42,17 @@ linter test
 
 ## Author
 
-👤 **Autor1**
+👤 **chigozie**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@githubhandle](https://github.com/chigozie1803)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/chigozie-ezeilo-0b7477179)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@githubhandle](https://github.c)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/chigozie-ezeilo-0b7477179)
 
 ## 🤝 Contributing
 
