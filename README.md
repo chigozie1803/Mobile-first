@@ -1,14 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-
-# Project Name
+<!-- -->
+# Portfolio:setup and mobile first
 
 > Description the project.
-
+The project setup a repo for development
 
 ## Built With
 
-- Major languages
-- Frameworks
+- Html
+- Css
 - Technologies used
 
 ## Live Demo (if available)
@@ -30,27 +30,29 @@ To get a local copy up and running follow these simple example steps.
 
 ### Install
 
+
 ### Usage
 
 ### Run tests
+linter test
 
 ### Deployment
 
 
 
-## Authors
+## Author
 
-👤 **Author1**
+👤 **chigozie**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@githubhandle](https://github.com/chigozie1803)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/chigozie-ezeilo-0b7477179)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@githubhandle](https://github.c)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/chigozie-ezeilo-0b7477179)
 
 ## 🤝 Contributing
 
